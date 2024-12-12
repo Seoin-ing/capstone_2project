@@ -1,16 +1,10 @@
-# project
+# 2학기 캡스톤
 
-A new Flutter project.
+블라인드 유사로 만든 알바생들을 위한 알라인드 어플리케이션
 
-## Getting Started
+## 기본 커뮤니티 기능
 
-This project is a starting point for a Flutter application.
+회원가입 - 인증
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+로그인(인증계정) - 게시글, 댓글, 알림 기능 등등
+로그인(비인증계정) - 기본기능만 사용가능(시급 계산기, 아르바이트 구인공고등등)
