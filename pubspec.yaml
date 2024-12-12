@@ -1,0 +1,38 @@
+name: project
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  csv: ^5.0.0
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.15 # 최신 버전으로 추가
+  firebase_auth: ^5.3.3
+  cloud_firestore: ^5.5.0
+
+  file_picker: ^5.0.1
+  syncfusion_flutter_pdf: ^20.4.47
+  cupertino_icons: ^1.0.8
+  path_provider: ^2.0.9
+  firebase_core: ^3.7.0
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.PNG
+    - assets/mainpic.webp
+    - assets/signup.webp
+    - assets/pdfup.webp
+    - assets/login.webp
+    - assets/csv/
